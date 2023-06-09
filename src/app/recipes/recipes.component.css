@@ -1,0 +1,9 @@
+.col-space-5 {
+    column-count: 5;
+    background-color: black;
+  }
+
+  .col-space-7 {
+    column-count: 7;
+    background-color: aqua;
+  }
